@@ -35,6 +35,7 @@ namespace GameApp1
                     Console.WriteLine("Gimli's Power Axe, + 5 DMG");
                 else if (input == "Sword")
                     Console.WriteLine("Aragorn's Sword of Light, + 5 DEX");
+                //comment
                 
 
             }
